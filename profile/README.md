@@ -15,13 +15,13 @@ Our mission is simple: **Deliver exceptional web solutions that empower our clie
 
 ## 🛠️ Services We Offer
 
-- **Web Design & Development:** Responsive, modern websites designed for your audience.  
-- **Local SEO:** Boost your visibility in local search results and Google Business Profiles.  
-- **PPC Campaign Management:** Get the most out of your Google Ads campaigns.  
-- **WordPress Plugin Development:** Custom plugins to enhance your site’s functionality.  
-- **Website Hosting & Management:** Secure, fast, and reliable hosting with ongoing support.  
-- **ADA Compliance & Troubleshooting:** Keep your site accessible and error-free.  
-
+- [**Web Design & Development**](https://ashevillewebdesign.com/asheville-web-design/) – Responsive, modern websites designed for your audience.  
+- [**Local SEO**](https://ashevillewebdesign.com/asheville-seo-services/asheville-local-seo/) – Boost your visibility in local search results and Google Business Profiles.  
+- [**PPC Campaign Management**](https://ashevillewebdesign.com/online-marketing/) – Get the most out of your Google Ads campaigns.  
+- [**WordPress Plugin Development**](https://ashevillewebdesign.com/plugins/) – Custom plugins to enhance your site’s functionality.  
+- [**Website Hosting & Management**](https://ashevillewebdesign.com/asheville-web-hosting/) – Secure, fast, and reliable hosting with ongoing support.  
+- [**ADA Compliance & Troubleshooting**](https://ashevillewebdesign.com/website-ada-compliance/) – Keep your site accessible and error-free.  
+ 
 ---
 
 ## 🧩 Featured Plugins
@@ -64,7 +64,7 @@ Whether you need a new website, SEO support, or custom WordPress solutions, we�
 
 Follow us for tips, updates, and the latest in web technologies:  
 - [Website](https://ashevillewebdesign.com)  
-- [Facebook](https://www.facebook.com/ashevillencwebdesign) *(add your social links if available)*  
+- [Facebook](https://www.facebook.com/ashevillencwebdesign) 
 - [Twitter](https://x.com/ashevilleweb)
 - [Instagram](https://instagram.com/ashevillewebdesign) 
 
